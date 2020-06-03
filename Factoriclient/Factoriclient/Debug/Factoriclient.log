@@ -1,0 +1,4 @@
+﻿  User.cpp
+C:\Users\Игорь\Desktop\курсовая мороз\Курсовая Мороз\Factoriclient\Factoriclient\User.cpp(81,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\курсовая мороз\Курсовая Мороз\Factoriclient\Factoriclient\User.cpp(82,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Factoriclient.vcxproj -> C:\Users\Игорь\Desktop\курсовая мороз\Курсовая Мороз\Factoriclient\Debug\Factoriclient.exe

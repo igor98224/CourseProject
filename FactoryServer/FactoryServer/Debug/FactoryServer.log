@@ -1,0 +1,5 @@
+﻿  User.cpp
+C:\Users\Игорь\Desktop\курсовая мороз\Курсовая Мороз\FactoryServer\FactoryServer\User.cpp(82,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\курсовая мороз\Курсовая Мороз\FactoryServer\FactoryServer\User.cpp(83,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\курсовая мороз\Курсовая Мороз\FactoryServer\FactoryServer\User.cpp(199,23): warning C4018: <: несоответствие типов со знаком и без знака
+  FactoryServer.vcxproj -> C:\Users\Игорь\Desktop\курсовая мороз\Курсовая Мороз\FactoryServer\Debug\FactoryServer.exe
